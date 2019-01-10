@@ -1,0 +1,17 @@
+{
+  "name": "electron-project",
+  "version": "1.0.0",
+  "description": "My very first try for an Electron Chat Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Thomas Stachl",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^4.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
