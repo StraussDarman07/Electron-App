@@ -4,6 +4,7 @@
   "description": "My very first try for an Electron Chat Application",
   "main": "main.js",
   "scripts": {
+    "build": "ng build",
     "start": "electron ."
   },
   "author": "Thomas Stachl",
